@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- I am Charithma Jayasekara
+- My It number - "IT20126506"
+- GitHub username - "charithmaJayasekara"
+- To reach me - "jayasekaracharithma@gmail.com"
 <!--
 **charithmaJayasekara/charithmaJayasekara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
